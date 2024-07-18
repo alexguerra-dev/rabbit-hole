@@ -16,3 +16,9 @@ Make things pretty.
 - Explore advanced Clojure concepts.
 - Contribute to an open-source Clojure project.
 - Write a blog post about my Clojure journey.
+
+## Local Setup
+I am using Calva and VScode.
+
+## Goals
+Try and use Github Copiolet as much as I can.
