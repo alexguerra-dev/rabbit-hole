@@ -19,6 +19,24 @@ Make things pretty.
 
 ## Local Setup
 I am using Calva and VScode.
+- Install Calva
+- Markdown Preview Enhanced
 
 ## Goals
 Try and use Github Copiolet as much as I can.
+
+## Dependencies
+- Clojure
+- Quil - For graphics
+
+### Quil
+Install
+```clojure
+[quil "4.3.1563"]
+```
+
+## Learning Resources
+- [Clojure for the Brave and True](https://www.braveclojure.com/)
+- [ClojureDocs](https://clojuredocs.org/)
+- [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
+- [Wonderland Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas)
